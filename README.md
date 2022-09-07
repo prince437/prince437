@@ -1,4 +1,3 @@
-# Prince-kumar
 [![MasterHead](https://media-exp2.licdn.com/dms/image/C511BAQHxjUNbm0bvNg/company-background_10000/0/1519797623962?e=2147483647&v=beta&t=mZ7cCD6xTTJNwW4q6mnhkyETNIypzmfwrkMT0k6jvTg)]
 <h1 align="center">Hi 👋, I'm Prince kumar</h1>
 <h3 align="center">A passionate Android developer from India</h3>
